@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-To-Do-App/static/css/main.c53315a7.chunk.css",
+    "main.js": "/React-To-Do-App/static/js/main.b9d8416a.chunk.js",
+    "main.js.map": "/React-To-Do-App/static/js/main.b9d8416a.chunk.js.map",
+    "runtime-main.js": "/React-To-Do-App/static/js/runtime-main.41b35dd6.js",
+    "runtime-main.js.map": "/React-To-Do-App/static/js/runtime-main.41b35dd6.js.map",
+    "static/css/2.2cbb2c5d.chunk.css": "/React-To-Do-App/static/css/2.2cbb2c5d.chunk.css",
+    "static/js/2.7dfce3d8.chunk.js": "/React-To-Do-App/static/js/2.7dfce3d8.chunk.js",
+    "static/js/2.7dfce3d8.chunk.js.map": "/React-To-Do-App/static/js/2.7dfce3d8.chunk.js.map",
+    "index.html": "/React-To-Do-App/index.html",
+    "precache-manifest.7e3ebab0d3f7032ccee8ea4c446b9cdc.js": "/React-To-Do-App/precache-manifest.7e3ebab0d3f7032ccee8ea4c446b9cdc.js",
+    "service-worker.js": "/React-To-Do-App/service-worker.js",
+    "static/css/2.2cbb2c5d.chunk.css.map": "/React-To-Do-App/static/css/2.2cbb2c5d.chunk.css.map",
+    "static/css/main.c53315a7.chunk.css.map": "/React-To-Do-App/static/css/main.c53315a7.chunk.css.map",
+    "static/js/2.7dfce3d8.chunk.js.LICENSE.txt": "/React-To-Do-App/static/js/2.7dfce3d8.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/React-To-Do-App/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/React-To-Do-App/static/media/fa-solid-900.f3a7d3b5.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41b35dd6.js",
+    "static/css/2.2cbb2c5d.chunk.css",
+    "static/js/2.7dfce3d8.chunk.js",
+    "static/css/main.c53315a7.chunk.css",
+    "static/js/main.b9d8416a.chunk.js"
+  ]
+}
